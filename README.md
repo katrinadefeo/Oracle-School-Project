@@ -4,7 +4,7 @@ This project is a project management tool that was created to address the needs 
 
 This is the biggest project I have worked on so far and was made in collaboration with my wonderful team members:
 Benard Cheserem 
-Mohammed Shaikh 
+Mohammed Shaikh &
 Nicholas Traczek
 
 
